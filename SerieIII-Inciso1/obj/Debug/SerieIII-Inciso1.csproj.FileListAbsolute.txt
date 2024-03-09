@@ -1,0 +1,7 @@
+C:\Users\HP\OneDrive\Escritorio\Parcial\SerieIII-Inciso1\obj\Debug\SerieIII-Inciso1.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Escritorio\Parcial\SerieIII-Inciso1\obj\Debug\SerieIII-Inciso1.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Escritorio\Parcial\SerieIII-Inciso1\bin\Debug\SerieIII-Inciso1.exe.config
+C:\Users\HP\OneDrive\Escritorio\Parcial\SerieIII-Inciso1\bin\Debug\SerieIII-Inciso1.exe
+C:\Users\HP\OneDrive\Escritorio\Parcial\SerieIII-Inciso1\bin\Debug\SerieIII-Inciso1.pdb
+C:\Users\HP\OneDrive\Escritorio\Parcial\SerieIII-Inciso1\obj\Debug\SerieIII-Inciso1.exe
+C:\Users\HP\OneDrive\Escritorio\Parcial\SerieIII-Inciso1\obj\Debug\SerieIII-Inciso1.pdb
